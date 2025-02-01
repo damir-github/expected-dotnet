@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/source/Expected/.vs
+/source/Expected/Expected/bin/Debug/net7.0
+/source/Expected/Expected/obj
+/source/Expected/ExpectedLib/bin/Debug/net7.0
+/source/Expected/ExpectedLib/obj
+/source/Expected/ExpectedTest/bin/Debug/net7.0
+/source/Expected/ExpectedTest/obj
